@@ -5,5 +5,4 @@
   tasks:
     - name: update apt packages
       apt:
-        update: yes
         update_cashe: yes
